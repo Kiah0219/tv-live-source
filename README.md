@@ -1,2 +1,24 @@
-# tv-live-source
-this is iptv source avialiable in China
+# kodi直播源
+
+#### 介绍
+
+这是kodi直播源的文件
+网络环境：武汉移动宽带
+
+
+
+#### 安装教程
+
+1.  安装kodi
+2.  pvr插件安装
+3.  添加直播源
+
+#### 使用说明
+
+1.[武汉移动的源]
+2. [广播源]
+
+3. [国外]
+
+4. [hahaha]
+
