@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png",[BD]cctv1@@6
+https://epg.pw/stream/9b729e6c878984d044d0552a24528d74fe7ef50bf62542ff952688d80f70e770.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091427918541_10.png",[SD]cctv2@@14
+https://epg.pw/stream/c5cfd35fb17b76b14394fc746a6ff1de787e4dad543264f3509018bd3a74a10b.m3u8
+#EXTINF:-1 group-title="綜藝" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091336175188_30.png",[SD]cctv3@@5
+https://epg.pw/stream/7a262b749ab7f12e9b967b05e0bd95defc9446e9391ba6ee94407aa388a4f81e.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png",[BD]cctv-4@@3
+https://epg.pw/stream/2ff36c2ad64db714128f144d7cf394685c7d31db7ec070396c9ffa12274e8e4e.m3u8
+#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png",[BD]cctv-5@@1
+https://epg.pw/stream/78554612e264c2471188d58c6a28a58f962bde7decdd7b1d01d1bd3c4ae52f40.m3u8
+#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png",[BD]cctv5+@@3
+https://epg.pw/stream/7981c913470473b3a58f00fbe26773cb6e00101b6c19f0a428d781ea3232ebe1.m3u8
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png",[BD]cctv-6@@4
+https://epg.pw/stream/aa05ffcc867aaeac5aa5fabd1f44afb4ac15beea1ffb12345dde9bfbbeb18980.m3u8
+#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091241522711_42.png",[SD]cctv7@@3
+https://epg.pw/stream/3c1054782e22686d6cba0109ba56949cc5ebb93b1ab68dd03fc247efb4f281af.m3u8
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png",[SD]cctv8@@5
+https://epg.pw/stream/7bf7c554e6315edb6e079d382ff59f19f624554c5abb76100eb10cbe6a0a875c.m3u8
+#EXTINF:-1 group-title="紀實" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091000110272_13.png",[BD]cctv9@@14
+https://epg.pw/stream/a7e07bb6004ca21e9420399932d18ef19206ac2c27330a040cdde76be94862b2.m3u8
+#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png",[SD]cctv10@@13
+https://epg.pw/stream/47f2da5e9e93a257e9c47aeccfacef9ddb6665ab0752caa93aa4c6e3583ec64f.m3u8
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091841489866_26.png",[BD]cctv-11@@2
+https://epg.pw/stream/cc92e37dc515f889951749c7330dba1ca9a2a91e4d8dce43af6409a65f46cdc1.m3u8
+#EXTINF:-1 group-title="綜合" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091755215949_32.png",[BD]cctv-12@@2
+https://epg.pw/stream/e7b68a9efd7b4ff75aac61709affe4e87b810ffd40dd0a2e057aa4209da52b9e.m3u8
+#EXTINF:-1 group-title="新聞" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png",[BD]cctv-13@@2
+https://epg.pw/stream/be02b5bd4154c54a98399fdbccfa2017c40edab49caae049993c3f1b32124faf.m3u8
+#EXTINF:-1 group-title="動畫" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091612944732_44.png",[BD]cctv-14@@2
+https://epg.pw/stream/d499ec3f1a426d12935ad62a42288080f9d9c1e6626a6f74cbb4aac792243d2b.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091532731488_88.png",[BD]cctv-15@@2
+https://epg.pw/stream/227f4e5c42f08ebe00515cbfaebdf7240316eb3b3cab3a8c5ed08c99b4e760ea.m3u8
+#EXTINF:-1 group-title="運動" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011409534910_94.jpg",[BD]cctv-16 4k
+https://epg.pw/stream/99196ad22f09828e84cfbe0afa6b2c3aa84a51148cc25a8aab28ad873403c705.m3u8
+#EXTINF:-1 group-title="其它" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011506892445_11.jpg",[BD]cctv-17@@1
+https://epg.pw/stream/b9d1d2edf82d20a16d634b44343bbf14f38699e212bb901da9ca9c1996bec76f.m3u8
+
+
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2019/11/22/large/20191122230402926478_41.png",[HD]tvb功夫台
+https://epg.pw/stream/e7a3ea85ce238d628f8ee79b91c3b3f09d44fa259aeedf12c7f293e31241172e.m3u8
+#EXTINF:-1 group-title="電影" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png",[HD]tvb星河台
+https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
