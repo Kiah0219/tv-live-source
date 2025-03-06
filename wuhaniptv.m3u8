@@ -365,10 +365,6 @@ http://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="其他",大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
-#EXTINF:-1 group-title="其他",唯心电视台
-https://stream1.freetv.fun/5ea267787f833cf96fdaccfa4265cb6854ff3e67e5bfd4e3fd492986bcf82527.m3u8
-#EXTINF:-1 group-title="其他",唯心电视台
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="其他",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
